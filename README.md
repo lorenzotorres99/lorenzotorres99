@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lorenzotorres99
-- 🌱 I’m a full stack web developer student
-- I know HTML/PHP/CSS
-- I'm currently learning JavaScript
+- 🌱 I’m a trainee developer
+- I know HTML/PHP/CSS/SQL
+- I'm currently learning Python
 - 📫 How to reach me: mail - lorenzo.torreslt99@gmail.com
